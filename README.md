@@ -12,4 +12,4 @@ Within this project I was provided crowddfunding data and analyzed it through se
   - Create a new sheet with a pivot table that has a column of outcome, rows of Date Created Conversion, values based on the count of outcome,
   and filters based on parent category and Years.
   
-  Attached is also a word document that includes some additional analysis of the datasheet
+  Attached is also a word document that includes additional analysis of the datasheet
