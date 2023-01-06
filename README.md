@@ -1,5 +1,5 @@
 # Excel-Assignment
-Within this project I was provided crowddfunding data and analyzed it through several metrics. These metrics included:
+Within this project I was provided crowdfunding data and analyzed it through several metrics. These metrics included:
   - Using conditional formatting to fill each cell in the outcome column with a different color, depending on whether the
   associated campaign was successful, failed, canceled, or is currently live
   - Using conditional formatting to fill each cell in the Percent Funded column according to a three-color scale.
